@@ -14,11 +14,11 @@ module.exports = function(environment) {
     },
     
     firebase: {         
-      apiKey: "AIzaSyBB-kC7FwRIgZ0F1JQqhUiiODWRMW99vWM",
-      authDomain: "mihail-703e8.firebaseapp.com",
-      databaseURL: "https://mihail-703e8.firebaseio.com",
-      storageBucket: "mihail-703e8.appspot.com",
-      messagingSenderId: "989877082948"    
+    apiKey: "AIzaSyBB-kC7FwRIgZ0F1JQqhUiiODWRMW99vWM",
+    authDomain: "mihail-703e8.firebaseapp.com",
+    databaseURL: "https://mihail-703e8.firebaseio.com",
+    storageBucket: "mihail-703e8.appspot.com",
+    messagingSenderId: "989877082948"
     },
 
     APP: {
